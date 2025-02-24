@@ -13,3 +13,6 @@
 
 Запуск второй сессии. Запуск psql под пользователем postgres.
 ![image](https://github.com/user-attachments/assets/d5530600-e931-4ab4-aba8-b3679dfe9ea0)
+
+Отключение autocommit
+![image](https://github.com/user-attachments/assets/5d5c1b63-5f92-41a7-a63d-68dfde13f8c1)

@@ -18,3 +18,8 @@
 
 ![image](https://github.com/user-attachments/assets/1e3ebd69-89ce-420e-979f-63ddee201077)
 
+Создание образа из Dockerfile (файлики скачала c docker hub: https://hub.docker.com/_/postgres)
+![image](https://github.com/user-attachments/assets/af6208ed-d83c-4e0c-be30-6d4b94cc58ed)
+
+Проверяем в спике образов:
+![image](https://github.com/user-attachments/assets/26687e75-b78f-4786-a542-8fede761943c)

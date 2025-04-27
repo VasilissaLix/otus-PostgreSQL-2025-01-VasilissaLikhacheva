@@ -50,6 +50,7 @@
 Создаю контейнер-сервер заново. Добавляю в сеть.
 ![image](https://github.com/user-attachments/assets/1828c694-a0ce-47d4-81e9-c6ce8eb5944b)
 
-Подключаюсь, проверяю наличие данные. 
+Подключаюсь, проверяю наличие данных. 
+
 ![image](https://github.com/user-attachments/assets/66efcdde-9eab-4984-bd3c-d2640331c445)
 Итог: данные остались.

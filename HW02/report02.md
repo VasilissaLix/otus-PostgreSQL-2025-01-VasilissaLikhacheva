@@ -22,7 +22,34 @@
 ![image](https://github.com/user-attachments/assets/af6208ed-d83c-4e0c-be30-6d4b94cc58ed)
 
 Проверяем в спике образов:
+
 ![image](https://github.com/user-attachments/assets/26687e75-b78f-4786-a542-8fede761943c)
 
 Запуск контейнера и монтирование папки
 ![image](https://github.com/user-attachments/assets/4b8b739b-8ff1-42d8-bdc8-69ad68c3b785)
+
+Подключаюсь через docker exec psql и создаю таблицу
+![image](https://github.com/user-attachments/assets/16ca9acb-6df4-454a-8efe-687b734ed21b)
+
+Создаю второй контейнер-клиент
+![image](https://github.com/user-attachments/assets/3aee4d2c-47aa-4226-ab87-4bb93f555827)
+
+Создание сети и подключение к ней контейнеров (без создания новой сети не получилось подключиться)
+![image](https://github.com/user-attachments/assets/e961c5da-845a-4673-b843-2bb46bb14628)
+
+Подключение контейнера-клиента к контейнеру-серверу 
+![image](https://github.com/user-attachments/assets/4ba84547-d3f2-4899-acb6-4d7148ef9aec)
+
+Подключение с рабочего ноутбука через DBeaver
+![image](https://github.com/user-attachments/assets/7538db70-0ac2-4f5b-83ad-1ab057db9e25)
+![image](https://github.com/user-attachments/assets/e5deec08-1628-4e49-82fd-575f2c4fb375)
+
+Удаляю контейнер. Проверяю наличие данных в папке
+![image](https://github.com/user-attachments/assets/e4d97722-3fd3-49ad-b725-4b1fcf8035e6)
+
+Создаю контейнер-сервер заново. Добавляю в сеть.
+![image](https://github.com/user-attachments/assets/1828c694-a0ce-47d4-81e9-c6ce8eb5944b)
+
+Подключаюсь, проверяю наличие данные. 
+![image](https://github.com/user-attachments/assets/66efcdde-9eab-4984-bd3c-d2640331c445)
+Итог: данные остались.

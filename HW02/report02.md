@@ -23,3 +23,6 @@
 
 Проверяем в спике образов:
 ![image](https://github.com/user-attachments/assets/26687e75-b78f-4786-a542-8fede761943c)
+
+Запуск контейнера и монтирование папки
+![image](https://github.com/user-attachments/assets/4b8b739b-8ff1-42d8-bdc8-69ad68c3b785)

@@ -1,5 +1,5 @@
 #### 22 июня, 2025
-# Домашняя работа №4. "Логический уровень PostgreSQL"
+# Домашняя работа №4. "Работа с базами данных, пользователями и правами"
 
 Кластер PostgreSQL 14:
 ![image](https://github.com/user-attachments/assets/a75c26f7-dfde-417d-a49c-3aec76e1a4f1)
